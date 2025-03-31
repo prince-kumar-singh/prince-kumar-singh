@@ -18,10 +18,11 @@
 ---
 
 ## 🚀 About Me  
-💻 Passionate **Frontend Developer** building **modern, interactive UIs**  
-🎨 Expertise in **React, Tailwind, Motion.js**  
-📖 Exploring **Web Animations & Performance Optimization**  
-📊 Open-source contributor & project developer  
+💻 Passionate **Full Stack Developer** building **scalable and interactive web applications**  
+🌐 Proficient in **React, Tailwind, Motion.js** for dynamic frontends  
+🛠️ Skilled in **Node.js, Express, and MongoDB** for robust backends  
+📈 Exploring **Performance Optimization & System Design**  
+📊 Open-source contributor & problem solver   
 
 ---
 
