@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/contactprincekumarsingh/)">
+  <a href="https://www.linkedin.com/in/contactprincekumarsingh">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:princesingh203188.@gmail.com">
@@ -62,10 +62,10 @@
   <a href="https://www.linkedin.com/in/contactprincekumarsingh">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="[https://twitter.com/your-handl](https://x.com/PrinceSingh__1/)">
+  <a href="https://x.com/PrinceSingh__1">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter" />
   </a>
-  <a href="[https://instagram.com/your-handle](https://www.instagram.com/princekumarsingh____/)">
+  <a href="https://www.instagram.com/princekumarsingh____">
     <img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram" />
   </a>
   <a href="mailto:princesingh203188@gmail.com">
