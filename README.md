@@ -76,5 +76,3 @@
 
 ---
 
-## 📅 Last Updated  
-**Automatically updates daily with GitHub Actions**  
