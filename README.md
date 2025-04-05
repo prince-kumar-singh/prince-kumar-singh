@@ -28,13 +28,13 @@
 
 ## 🔥 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prince-kumar-singh&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prince-kumar-singh&show_icons=true&locale=en&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince-kumar-singh&theme=dark&hide_border=true" alt="GitHub Streaks" />
 </p>
 
 ### 🚀 **Top Languages**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-kumar-singh&theme=dark&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prince-kumar-singh&show_icons=true&locale=en&theme=dark&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
