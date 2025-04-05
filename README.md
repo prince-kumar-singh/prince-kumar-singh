@@ -34,7 +34,7 @@
 
 ### 🚀 **Top Languages**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prince-kumar-singh&show_icons=true&locale=en&theme=dark&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prince-kumar-singh&show_icons=true&locale=en&theme=dark&layout=compact&hide_border=true&cache_bust=1" alt="Top Languages" />
 </p>
 
 ---
